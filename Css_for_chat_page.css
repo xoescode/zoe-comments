@@ -1,0 +1,13 @@
+button {
+	background-color: GoldenRod;
+	color: DarkRed;
+}
+* {
+	text-align: center;
+}
+body {
+	background-color: HoneyDew;
+}
+p{
+	font-size: 20px;
+}	
